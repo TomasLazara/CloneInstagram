@@ -1,0 +1,12 @@
+D:\InstagramClone\InstagramClone.Data\bin\Debug\net8.0\InstagramClone.Data.deps.json
+D:\InstagramClone\InstagramClone.Data\bin\Debug\net8.0\InstagramClone.Data.dll
+D:\InstagramClone\InstagramClone.Data\bin\Debug\net8.0\InstagramClone.Data.pdb
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.csproj.AssemblyReference.cache
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.AssemblyInfoInputs.cache
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.AssemblyInfo.cs
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.csproj.CoreCompileInputs.cache
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.dll
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\refint\InstagramClone.Data.dll
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\InstagramClone.Data.pdb
+D:\InstagramClone\InstagramClone.Data\obj\Debug\net8.0\ref\InstagramClone.Data.dll

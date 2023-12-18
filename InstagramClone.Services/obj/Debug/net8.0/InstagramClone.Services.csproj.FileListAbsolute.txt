@@ -1,0 +1,15 @@
+D:\InstagramClone\InstagramClone.Services\bin\Debug\net8.0\InstagramClone.Services.deps.json
+D:\InstagramClone\InstagramClone.Services\bin\Debug\net8.0\InstagramClone.Services.dll
+D:\InstagramClone\InstagramClone.Services\bin\Debug\net8.0\InstagramClone.Services.pdb
+D:\InstagramClone\InstagramClone.Services\bin\Debug\net8.0\InstagramClone.Models.dll
+D:\InstagramClone\InstagramClone.Services\bin\Debug\net8.0\InstagramClone.Models.pdb
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.csproj.AssemblyReference.cache
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.AssemblyInfoInputs.cache
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.AssemblyInfo.cs
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.csproj.CoreCompileInputs.cache
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.csproj.CopyComplete
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.dll
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\refint\InstagramClone.Services.dll
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\InstagramClone.Services.pdb
+D:\InstagramClone\InstagramClone.Services\obj\Debug\net8.0\ref\InstagramClone.Services.dll
